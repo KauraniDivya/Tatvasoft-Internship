@@ -2,6 +2,23 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
 
+## Overview
+
+This is a simple login and register application built using Angular. It allows users to create an account and log in using their credentials.
+
+## Features
+
+- **Login:** Users can log in with their email and password.
+- **Register:** New users can create an account by providing necessary details.
+
+## Screenshots
+
+### Login Page
+![Login Page](https://i.ibb.co/1JKSYBK/Screenshot-2024-05-22-125336.png)
+
+### Register Page
+![Register Page](https://i.ibb.co/hZCSMK8/Screenshot-2024-05-22-130440.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
