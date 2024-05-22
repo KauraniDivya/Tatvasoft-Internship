@@ -8,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class LoginComponent implements OnInit {
 
   logintitle: string = 'Login';
-  phoneImageUrl: string = 'https://firebasestorage.googleapis.com/v0/b/studymate-c44e8.appspot.com/o/4957136_Mobile%20login.svg?alt=media&token=73336e6b-6cc5-4da1-bc24-8378a7c2d5bd';
-  avatarImageUrl: string = 'https://firebasestorage.googleapis.com/v0/b/studymate-c44e8.appspot.com/o/50994.jpg?alt=media&token=2c6f93a3-e74a-4219-9305-9d5a33815442';
+  phoneImageUrl: string = 'https://firebasestorage.googleapis.com/v0/b/xenesis-ff41b.appspot.com/o/Untitled%20design%20(2).png?alt=media&token=f9873000-183f-439f-870f-7ac590f4a645';
+  avatarImageUrl: string = 'https://i.ibb.co/dcm0Tzx/Untitled-design.png';
   email: string = '';
   password: string = '';
   rememberMe: boolean = false;

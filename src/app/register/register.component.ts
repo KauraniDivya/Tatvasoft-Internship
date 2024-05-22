@@ -7,8 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RegisterComponent implements OnInit {
   registertitle = 'Register';
-  phoneImageUrl: string = 'https://firebasestorage.googleapis.com/v0/b/studymate-c44e8.appspot.com/o/20547283_6310505.svg?alt=media&token=4e7f5e7b-fbda-4d0f-ad43-3370ffee55c7';
-  avatarImageUrl: string = 'https://firebasestorage.googleapis.com/v0/b/studymate-c44e8.appspot.com/o/50994.jpg?alt=media&token=2c6f93a3-e74a-4219-9305-9d5a33815442';
+  phoneImageUrl: string = 'https://firebasestorage.googleapis.com/v0/b/xenesis-ff41b.appspot.com/o/Untitled%20design%20(4).png?alt=media&token=d5cef96d-90d6-4f7b-9c89-3c176d392d94';
+  avatarImageUrl: string = 'https://i.ibb.co/dcm0Tzx/Untitled-design.png';
   email: string = '';
   password: string = '';
   rememberMe: boolean = false;
